@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=150&section=header&text=Ryan%20Barbosa%20de%20Oliveira&fontSize=20&fontAlignY=25&fontColor=f5f5f5"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&height=150&section=header&fontSize=20&fontAlignY=25&fontColor=f5f5f5"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Como+você+está?;Tenho+18+anos.;Sou+programador+Frontend+💻;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Como+você+está?;Me+Chamo+Ryan+Barbosa;Sou+programador+Frontend+💻;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ## Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-barbosa-de-oliveira-225221246/)
