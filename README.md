@@ -31,7 +31,7 @@
 
 Meu código é a minha tela, onde cada linha conta a história da minha paixão pela tecnologia e da minha busca incessante pela excelência.
 
-[![Ryanzhin22 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanzhin22&line=24292e&point=24292e&area=true&hide_border=true&theme=react&line=ff6961)](https://github.com/Ryanzhin22/github-readme-activity-graph)
+[![Ryanzhin22 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanzhin22&line=ff6961&point=ff6961&area=true&hide_border=true&theme=react&area_color=ff6961)](https://github.com/Ryanzhin22/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
